@@ -4,6 +4,7 @@ DISCLAIMER!!
 None of the things in this archive were fully made by me!!
 I've only slightly modified them and put them in this archive to make the easier to backup and share!!
 I've credited the authors below, please give them some love!!
+These files are meant to be used with the XFCE Desktop Environment!!
 
 CREDITS!!
 
