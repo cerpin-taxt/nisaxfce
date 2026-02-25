@@ -2,7 +2,7 @@
 DISCLAIMER!!
 
 None of the things in this archive were fully made by me!!
-I've only slightly modified them and put them in this archive to make it easier to backup!!!
+I've only slightly modified them and put them in this archive to make the easier to backup and share!!
 I've credited the authors below, please give them some love!!
 
 CREDITS!!
@@ -19,8 +19,4 @@ https://www.pling.com/s/XFCE/p/1264412
 I MODIFIED the QTStep Traditional theme to have resizing handles 
 I got the handles from this repo
 https://github.com/jadenekotenshi/NeXTFCE-dotfiles
-
-I've also included the "PropagandaTiles" wallpaper pack. 
-https://github.com/BenjaminHCCarr/PropagandaTiles
-
 
